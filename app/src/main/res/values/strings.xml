@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Relocation Moving Truck Rental</string>
+    <string name="txtTitle">Relocation Moving Truck Rental</string>
+    <string name="txtSize">Truck Size</string>
+    <string name="txtMiles">Miles to be Driven</string>
+    <string name="txtTotal">Total Cost</string>
+    <string name="hint1">10ft, 17ft, or 26ft</string>
+    <string name="hint2">Number of Miles</string>
+    <string name="btnCalculate">Calculate Total</string>
+    <string name="imgDescription">Rental Truck Image</string>
+</resources>
